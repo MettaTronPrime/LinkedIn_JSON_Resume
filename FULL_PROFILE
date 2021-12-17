@@ -1,0 +1,503 @@
+{
+  "basics": {
+    "name": "Ryan Newton",
+    "label": "CCNA, CCENT | Network Installations & Provisioning Specialist at Atlantech Online",
+    "picture": "",
+    "email": "rnewton301@gmail.com",
+    "phone": "202-210-8795",
+    "website": "",
+    "summary": "A CCNA Certified Networking Professional skilled and experienced in configuration, verification, and troubleshooting of network and voice services; Customer Service and retention.",
+    "location": {
+      "countryCode": "US",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "rnewton301",
+        "url": "https://www.linkedin.com/in/rnewton301/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Atlantech Online",
+      "endDate": "",
+      "highlights": [],
+      "position": "Network Installations & Provisioning Specialist",
+      "startDate": "2019-07-31",
+      "website": "https://www.linkedin.com/company/atlantech-online/"
+    },
+    {
+      "company": "Atlantech Online",
+      "endDate": "2019-07-31",
+      "highlights": [],
+      "position": "Datacenter Technician (Network & Voice)",
+      "startDate": "2018-01-31",
+      "website": "https://www.linkedin.com/company/atlantech-online/"
+    },
+    {
+      "company": "Per Scholas",
+      "endDate": "2017-12-31",
+      "highlights": [],
+      "position": "A+ Candidate",
+      "startDate": "2017-10-31",
+      "website": "https://www.linkedin.com/school/perscholas/"
+    },
+    {
+      "company": "TruGreen",
+      "endDate": "2017-10-31",
+      "highlights": [],
+      "position": "Inside Outside Sales Associate ",
+      "startDate": "2017-03-31",
+      "website": "https://www.linkedin.com/company/trugreen/"
+    },
+    {
+      "company": "SPARKS",
+      "endDate": "2017-10-31",
+      "highlights": [],
+      "position": "Associate",
+      "startDate": "2015-09-30",
+      "summary": "WESTAT- 12/16-3/17 Warehouse Clerk Assemble refrigerated boxes(CREDOS) for secure shipment of blood and urine. Perform QA checks on CREDOS components prior to shipment\nSODEXHO- 4/16 Mailroom Clerk; Responsible for receiving, sorting and distributing mail and incoming packages to Sodexho floors in office building\nEU SERVICES- 9/15-3/16 Machine Operator; Responsible for safe and efficient machine operation in order to process customer orders for direct mail shipments. Duties include accurately processing orders, basic machine troubleshooting, workplace maintenance and QC checks",
+      "website": "https://www.linkedin.com/company/sparks_3/"
+    },
+    {
+      "company": "1-800-GOT-JUNK?",
+      "endDate": "2016-11-30",
+      "highlights": [],
+      "position": "Driver/Route Sales Representative",
+      "startDate": "2016-04-30",
+      "summary": "Drove a Class 4 dump box truck. Provided an onsite estimate and negotiated price with customer for services. Removed and properly disposed of designated items at local transfer and recycling stations.  Processed invoices and payments.",
+      "website": "https://www.linkedin.com/company/1-800-got-junk/"
+    },
+    {
+      "company": "Penguin Staffing Services",
+      "endDate": "2016-10-31",
+      "highlights": [],
+      "position": "On-Call Bartender and Banquet Server",
+      "startDate": "2010-12-31",
+      "summary": "http://www.penguinstaff.com/",
+      "website": ""
+    },
+    {
+      "company": "Eddie V's Restaurants Inc.",
+      "endDate": "2015-08-31",
+      "highlights": [],
+      "position": "Server",
+      "startDate": "2015-06-30",
+      "summary": "https://www.eddiev.com/",
+      "website": "https://www.linkedin.com/company/eddie-v-s-prime-seafood/"
+    },
+    {
+      "company": "Nick's Chophouse",
+      "endDate": "2015-06-30",
+      "highlights": [],
+      "position": "Server",
+      "startDate": "2015-02-28",
+      "summary": "http://www.nickschophouserockville.com/index.html",
+      "website": ""
+    },
+    {
+      "company": "McCormick & Schmick's",
+      "endDate": "2015-01-31",
+      "highlights": [],
+      "position": "Server",
+      "startDate": "2014-09-30",
+      "summary": "http://www.mccormickandschmicks.com/locations/washington-dc/washington-dc/fstreetnw.aspx",
+      "website": "https://www.linkedin.com/company/mccormick-&-schmick's/"
+    },
+    {
+      "company": "Buca di Beppo",
+      "endDate": "2014-08-31",
+      "highlights": [],
+      "position": "Server",
+      "startDate": "2013-11-30",
+      "summary": "http://www.bucadibeppo.com/restaurants/md/gaithersburg/",
+      "website": "https://www.linkedin.com/company/buca-di-beppo/"
+    },
+    {
+      "company": "Cafe Deluxe",
+      "endDate": "2013-09-30",
+      "highlights": [],
+      "position": "Server",
+      "startDate": "2013-02-28",
+      "summary": "With its leather booths, mahogany bar and oversized mirrors, Cafe Deluxe combines the charm of a neighborhood tavern with the sparkle and energy of a bustling European bistro. \t  \tOur eclectic menu combines traditional fare like Steak Frites and Grilled Meatloaf with Creole sauce with more innovative dishes such as Ahi Tuna Mignon with Green Pepper sauce.\n\nhttp://www.cafedeluxe.com/",
+      "website": "https://www.linkedin.com/company/cafe-deluxe/"
+    },
+    {
+      "company": "CSAAC",
+      "endDate": "2013-02-28",
+      "highlights": [],
+      "position": "Teacher Assistant",
+      "startDate": "2012-11-30",
+      "summary": "www.csaac.org/\n\nhttp://www.csaac.org/educationalservices.htm",
+      "website": "https://www.linkedin.com/company/csaac/"
+    },
+    {
+      "company": "Copper Canyon Grill-Rio,Gaithersburg",
+      "endDate": "2012-11-30",
+      "highlights": [],
+      "position": "Server",
+      "startDate": "2012-08-31",
+      "summary": "https://ccgrill.com/index.php",
+      "website": ""
+    },
+    {
+      "company": "Busboys and Poets",
+      "endDate": "2012-07-31",
+      "highlights": [],
+      "position": "Server/Bartender",
+      "startDate": "2011-05-31",
+      "summary": "http://www.busboysandpoets.com/\n\nhttp://www.busboysandpoets.com/about.php\n\nhttp://www.busboysandpoets.com/about_14th.php",
+      "website": "https://www.linkedin.com/company/busboys-and-poets/"
+    },
+    {
+      "company": "BlackFinn American Saloon",
+      "endDate": "2011-05-31",
+      "highlights": [],
+      "position": "Bartender",
+      "startDate": "2011-01-31",
+      "summary": "BlackFinn American Saloon was established in New York City in 1994.  As part of their lives growing up in New York City, the proprietors were exposed to many of the world’s greatest saloons.  When the time was right they decided to act on their vision for the great American saloon, and thus, BlackFinn was born.  Over the years the proprietors have developed numerous venues and concepts.  They recently made the strategic decision to focus on evolving the traditions of the New York Style Saloon.  The product of that focus has been making BlackFinn the new standard in the New York Style Saloon experience.\n\nhttp://www.blackfinnbethesda.com/index.php",
+      "website": "https://www.linkedin.com/company/blackfinn-american-saloon/"
+    },
+    {
+      "company": "Dogfish Head Alehouse-Gaithersburg",
+      "endDate": "2011-05-31",
+      "highlights": [],
+      "position": "Host,Busser, Foodrunner",
+      "startDate": "2011-01-31",
+      "summary": "Welcome to Dogfish Head Alehouse located in Gaithersburg, Maryland. Here you'll find many of the favorite features that folks have enjoyed at the original Rehoboth Beach, Delaware, Brewpub for more than ten years; comfortable, casual surroundings and service, tasty and unique wood grilled food and, of course, the craft-brewed Dogfish ales! Don't forget to check out our other two Alehouses in Falls Church and Fairfax, Virginia.\n\nWhen you visit, first check our beer chalkboard, it'll tell you what we have on tap. We usually have a great selection of the year-round beers, and we get all of the seasonal and special release beers - you can certainly quench your thirst for Dogfish here! And keep in mind - any choice you make travels only two hours from the brew vats in Milton, Delaware to our beer taps in Gaithersburg.",
+      "website": ""
+    },
+    {
+      "company": "Bens Next Door",
+      "endDate": "2010-10-31",
+      "highlights": [],
+      "position": "Bartender/Server",
+      "startDate": "2010-03-31",
+      "summary": "Located at 1211 U Street, right “next door” to our beloved Ben’s Chili Bowl, Next Door features incredible cuisine, 9 LCD flat screens, a 53-foot full bar, and a warm and inviting staff ready to serve you.  \n\nHaving 51 years of history with Ben's, Next Door has the same warm feel, with a totally different flare. We also have an extensive beer list including a \"Super Cold\" Heineken tap, offer late night food, and serve Saturday and Sunday brunch. Its the unique twist of our food and signature cocktails that makes Next Door a perfect place to bring a date, family, friends or co-workers.\n\nWhen heading out to enjoy a night on the town, stop by and see how we keep the tradition rolling with our new restaurant and bar.  Come experience the wonderful and friendly atmosphere, exquisite cuisine, unique drinks and warm decor that we strive everyday to perfect for you. Thank you in advance for your patronage.",
+      "website": "https://www.linkedin.com/company/bens-next-door/"
+    },
+    {
+      "company": "FieldWorks",
+      "endDate": "2010-03-31",
+      "highlights": [],
+      "position": "Petitioner (Door-To-Door)",
+      "startDate": "2010-01-31",
+      "summary": "Door-To-Door canvassing in Anne Arundel County, Maryland on the Maryland Jockey Club Campaign",
+      "website": "https://www.linkedin.com/company/fieldworks/"
+    },
+    {
+      "company": "Oceaneering",
+      "endDate": "2009-12-31",
+      "highlights": [],
+      "position": "Facility Technician",
+      "startDate": "2008-01-31",
+      "summary": "Provided a variety of support services for both fabrication shop/warehouse and office personnel\nBasic electrical, plumbing, HVAC \nVendor/Contractor Liaison \nVehicle & equipment maintenance [forklift, man lift, overhead crane, mobile crane, company vehicles, etc.]\nForklift, man lift safety training/certification of company employees\nMeeting and company event planning, set-up and administration\nHAZMAT Waste inventory and disposal",
+      "website": "https://www.linkedin.com/company/oceaneering/"
+    },
+    {
+      "company": "Aerotek",
+      "endDate": "2008-06-30",
+      "highlights": [],
+      "position": "Associate",
+      "startDate": "2007-09-30",
+      "summary": "Two assignments:\n-E&J Enterprises (approx. 4 weeks); Fulfilled customer orders operating order picker lift, forklift and overhead crane at metal warehouse.\n-Oceaneering (remaining time with Aerotek)",
+      "website": "https://www.linkedin.com/company/aerotek/"
+    },
+    {
+      "company": "Dreyer's Grand Ice Cream",
+      "endDate": "2007-08-31",
+      "highlights": [],
+      "position": "Flavor Technician (Ice Cream Maker III)",
+      "startDate": "2006-03-31",
+      "summary": "Pulled mix from mix tanks into flavor vats. Added necessary flavoring and ingredients as listed. Received and documented mix ingredients and amounts used. Cleaned and sanitized empty mix tanks using CIP process. Assisted as necessary on ice cream production line including relieving line workers for breaks.",
+      "website": "https://www.linkedin.com/company/dreyer's-grand-ice-cream/"
+    },
+    {
+      "company": "Liaison Records Inc",
+      "endDate": "2006-02-28",
+      "highlights": [],
+      "position": "Sales",
+      "startDate": "2004-08-31",
+      "summary": "Promoted to Sales from warehouse order picker/sorter, shipping and receiving\nCalled and fielded calls from record store accounts making direct sales of music and movie merchandise\nInputted descriptions of new products into company database\nCompiled weekly sales packet detailing upcoming product releases for Sales Team",
+      "website": "https://www.linkedin.com/company/liaison-records-inc/"
+    },
+    {
+      "company": "Domino's",
+      "endDate": "2004-10-31",
+      "highlights": [],
+      "position": "Delivery Driver",
+      "startDate": "2004-05-31",
+      "website": "https://www.linkedin.com/company/domino's-pizza/"
+    },
+    {
+      "company": "Chadwick's Resturant",
+      "endDate": "2004-05-31",
+      "highlights": [],
+      "position": "Server",
+      "startDate": "2004-03-31",
+      "website": ""
+    },
+    {
+      "company": "Borders",
+      "endDate": "2004-03-31",
+      "highlights": [],
+      "position": "Inventory Supervisor",
+      "startDate": "2001-12-31",
+      "summary": "Supervised five person inventory processing team in receiving and stocking merchandise.\nReported directly to Inventory Manager and General Manager.\nResponsible for inventory team schedules and efficiency tracking.\nExperienced significant increase in team productivity during tenure.",
+      "website": "https://www.linkedin.com/company/borders/"
+    },
+    {
+      "company": "Hard Rock International",
+      "endDate": "2001-11-30",
+      "highlights": [],
+      "position": "Stock Supervisor/ Retail Sales Associate",
+      "startDate": "2001-06-30",
+      "summary": "Reorganized stock room for Hard Rock Cafe's retail store, improving efficiency, sales and customer satisfaction. \nWorked in retail store as cashier and customer service representative.",
+      "website": "https://www.linkedin.com/company/hard-rock-cafe/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Per Scholas ",
+      "area": "Computer and Information Sciences and Support Services",
+      "studyType": "CompTIA A+ Certification",
+      "startDate": "2017-12-31",
+      "endDate": "2017-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Morehouse College",
+      "area": "Psychology",
+      "studyType": "",
+      "startDate": "1993-12-31",
+      "endDate": "1998-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Hammond High School",
+      "area": "College/University Preparatory and Advanced High School/Secondary Diploma Program",
+      "studyType": "High School Diploma w/ Maryland Certificate of Merit",
+      "startDate": "1989-12-31",
+      "endDate": "1993-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Hardware Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Network Operations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "A+",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Per Scholas",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Public Speaking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Virtualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Repair",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Number Portability",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Restaurants",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Installation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Hardware Installation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hospitality",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Router Configuration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Command Prompt",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OS X",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Firmware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unified Communications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Recruiting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cisco Certified",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Event Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Subnetting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social Media Marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IP Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cisco Routers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social Media",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Monitoring Tools",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PXE",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RAID",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cisco IOS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Remote Desktop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Support",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Event Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Installation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
